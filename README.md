@@ -59,10 +59,10 @@ This container is designed for [Unraid](https://unraid.net) so the user in the c
 If the install is incomplete for some reason.  Deleting the downloaded server file in /data will restart the install/upgrade process.
 
 ## Source
-Github: https://github.com/Robonau/docker-ATM9-Skies
+Github: https://github.com/Robonau/docker-atm9-skies
 
-Docker: https://github.com/Robonau/docker-ATM9-Skies
+Docker: https://github.com/Robonau/docker-atm9-skies
 
-Original Template is by [Goobaroo](https://github.com/Goobaroo/docker-ftbskies)
+Original Template is by [Goobaroo](https://github.com/Goobaroo/docker-allthemods9)
 
 Workflows partially from [math7935](https://github.com/math7935/docker-ftbskies-expert)
